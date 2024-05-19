@@ -1,0 +1,561 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/side project/RISV-V CPU/quartus_prj/simulation/modelsim
+T_opt
+!s110 1716097638
+VI<LD<fS<8<j4aBLfdB8jz3
+04 17 4 work tb_UBJ_RISC_V_CPU fast 0
+=1-bc17b8cb9210-66499266-140-142c
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vadder
+Z2 !s110 1716097634
+!i10b 1
+!s100 cQo66PiBW15o=4nnN>UI22
+IP2KK<E>1DUGMBKl9oAh2U2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1716071010
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/adder.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/adder.v
+L0 1
+Z4 OL;L;10.5;63
+r1
+!s85 0
+31
+Z5 !s108 1716097634.000000
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/adder.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work {+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vALU
+Z8 !s110 1716097635
+!i10b 1
+!s100 m8ZAnomM7BL7TAglFRnR?1
+Iecln3Dn<>>5[d34GVaWj11
+R3
+R0
+w1714060203
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/ALU.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/ALU.v
+L0 3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1716097635.000000
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/cpu_define.v|C:/Users/user/side project/RISV-V CPU/rtl/cpu/ALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/ALU.v|
+!i113 0
+R6
+R7
+R1
+n@a@l@u
+vALU_control
+R8
+!i10b 1
+!s100 aEHF6EeIXE^9enOm5P?Lh0
+I]F]njk7[N99o196XUIYL82
+R3
+R0
+w1714634160
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/ALU_control.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/ALU_control.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/cpu_define.v|C:/Users/user/side project/RISV-V CPU/rtl/cpu/ALU_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/ALU_control.v|
+!i113 0
+R6
+R7
+R1
+n@a@l@u_control
+vbranch_control
+Z10 !s110 1716097633
+!i10b 1
+!s100 m3bSeC:eJ06EL5UI34b9c0
+IK`7m`:1Qaa1F2;fbg9bJN2
+R3
+R0
+w1716084561
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/branch_control.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/branch_control.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z11 !s108 1716097633.000000
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/branch_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/branch_control.v|
+!i113 0
+R6
+R7
+R1
+vcontrol
+R8
+!i10b 1
+!s100 ?L>Pc8CR69YeMbJmOMnCA2
+IBU;JCLJj06MNmJJ^9C:1?1
+R3
+R0
+w1716082849
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/control.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/control.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/cpu_define.v|C:/Users/user/side project/RISV-V CPU/rtl/cpu/control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/control.v|
+!i113 0
+R6
+R7
+R1
+vcontrolMUX
+R2
+!i10b 1
+!s100 NS2XME@`Y5[<PP`F1C8_z1
+I2J8m8`=AiBhR=1P]MNCE?0
+R3
+R0
+w1715845701
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/controlMUX.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/controlMUX.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/controlMUX.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/controlMUX.v|
+!i113 0
+R6
+R7
+R1
+ncontrol@m@u@x
+vdata_memory
+R8
+!i10b 1
+!s100 Wbgf2E6n;TYD1YL;iWHE00
+IM`Jgb@P<9:nJzId2KP6QU3
+R3
+R0
+w1714046373
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/data_memory.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/data_memory.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/cpu_define.v|C:/Users/user/side project/RISV-V CPU/rtl/cpu/data_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/data_memory.v|
+!i113 0
+R6
+R7
+R1
+vEX_MEM
+R2
+!i10b 1
+!s100 5XfGMDGnc63_b96P1kYX11
+I9K518h54bbkISZWVCL?QR3
+R3
+R0
+w1716096817
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/EX_MEM.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/EX_MEM.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/EX_MEM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/EX_MEM.v|
+!i113 0
+R6
+R7
+R1
+n@e@x_@m@e@m
+vforwarding_unit
+R2
+!i10b 1
+!s100 EgoMgJjOHNl;FadciSL0n1
+Ie@AJ0fW2AjCfIABH5<>T83
+R3
+R0
+w1710026910
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/forwarding_unit.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/forwarding_unit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/forwarding_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/forwarding_unit.v|
+!i113 0
+R6
+R7
+R1
+vforwardingMUX
+R2
+!i10b 1
+!s100 ;2>bRN[XV`B1gmNXP]Cl=2
+IFi]LhJHC;YO8<aGSZgYHc1
+R3
+R0
+w1710848592
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/forwardingMUX.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/forwardingMUX.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/forwardingMUX.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/forwardingMUX.v|
+!i113 0
+R6
+R7
+R1
+nforwarding@m@u@x
+vhazard_detection
+R2
+!i10b 1
+!s100 `JKSRj:4JP`@7zY49Pe390
+I3]I0?UA_zm6mURbL3oE1I3
+R3
+R0
+w1710028165
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/hazard_detection.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/hazard_detection.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/hazard_detection.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/hazard_detection.v|
+!i113 0
+R6
+R7
+R1
+vID_EX
+R2
+!i10b 1
+!s100 iIFlBWOQ>noGL]NNGUnb22
+I8a=jD2?ekAKz?I4h8SPQ_1
+R3
+R0
+w1716072364
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/ID_EX.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/ID_EX.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/ID_EX.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/ID_EX.v|
+!i113 0
+R6
+R7
+R1
+n@i@d_@e@x
+vIF_ID
+R8
+!i10b 1
+!s100 MFWSiOf]gn0i@46fSigGL1
+IIoo>S9n[8WafXCmiPZ4fe0
+R3
+R0
+w1715833550
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/IF_ID.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/IF_ID.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/IF_ID.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/IF_ID.v|
+!i113 0
+R6
+R7
+R1
+n@i@f_@i@d
+vinstruction_memory
+R8
+!i10b 1
+!s100 ZjKz]`KJXS=Xa6Lb?zoXP1
+IfTiI_4j5@W8CTHmUXW^S01
+R3
+R0
+w1711849974
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/instruction_memory.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/instruction_memory.v
+L0 6
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/cpu_define.v|C:/Users/user/side project/RISV-V CPU/rtl/cpu/instruction_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/instruction_memory.v|
+!i113 0
+R6
+R7
+R1
+vMALU
+R8
+!i10b 1
+!s100 g658NZ9AKfBMin>D73J9O2
+IL^m=gC@Hc^5KT8Dm8nLdi0
+R3
+R0
+w1711637632
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/MAUL.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/MAUL.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/cpu_define.v|C:/Users/user/side project/RISV-V CPU/rtl/cpu/MAUL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/MAUL.v|
+!i113 0
+R6
+R7
+R1
+n@m@a@l@u
+vMEM_WB
+R2
+!i10b 1
+!s100 ]_O]Kl:5YJ78FkI9`Uj7a2
+I;4OzdzkSeJj1oFU^KA<D43
+R3
+R0
+w1716097611
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/MEM_WB.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/MEM_WB.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/MEM_WB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/MEM_WB.v|
+!i113 0
+R6
+R7
+R1
+n@m@e@m_@w@b
+vmux
+R2
+!i10b 1
+!s100 4_FL>:74l3@L^lXBUH]=b2
+I2iK]SYzBA?<dW7C>9A^n_3
+R3
+R0
+w1709793224
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/mux.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/mux.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/mux.v|
+!i113 0
+R6
+R7
+R1
+vmux3
+R10
+!i10b 1
+!s100 Gkh?U93?Z4jSH]n5df01d1
+I<iR1`HLoY]Zi[[OfhGR:G0
+R3
+R0
+w1714638290
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/mux3.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/mux3.v
+L0 1
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/mux3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/mux3.v|
+!i113 0
+R6
+R7
+R1
+vpc
+R8
+!i10b 1
+!s100 <J^ik]<TNWBL7Ykf5LkUK0
+Idj50NCNPU1N<3dS03M1::1
+R3
+R0
+w1711149902
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/pc.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/pc.v
+L0 4
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/cpu_define.v|C:/Users/user/side project/RISV-V CPU/rtl/cpu/pc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/pc.v|
+!i113 0
+R6
+R7
+R1
+vpcIm_control
+R10
+!i10b 1
+!s100 TPIAFnozdkE8E;FG`>j`22
+I2_?[G2Bn6<CR6AYiW41dG0
+R3
+R0
+w1714636069
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/pcIm_control.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/pcIm_control.v
+L0 1
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/pcIm_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/pcIm_control.v|
+!i113 0
+R6
+R7
+R1
+npc@im_control
+vRegister
+R2
+!i10b 1
+!s100 FVo12mVK4?>>6=mQO<OJM3
+In34QA76Z=6XEm=>M7J<9R1
+R3
+R0
+w1715846051
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/Rigister.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/Rigister.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/Rigister.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/Rigister.v|
+!i113 0
+R6
+R7
+R1
+n@register
+vRISC_V_CPU
+R8
+!i10b 1
+!s100 SgGYS[2`YBZ0Fz78T`iUj0
+I>RTnj>iDDfV5Y_>X9=^<00
+R3
+R0
+w1716097520
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/RISC_V_CPU.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/RISC_V_CPU.v
+L0 4
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/cpu_define.v|C:/Users/user/side project/RISV-V CPU/rtl/cpu/RISC_V_CPU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/RISC_V_CPU.v|
+!i113 0
+R6
+R7
+R1
+n@r@i@s@c_@v_@c@p@u
+vSignExtend
+R2
+!i10b 1
+!s100 VEdoK3YHChIc[1Q@F0P6i2
+IC]Kd=MP?M]4lhfIMBkRKg2
+R3
+R0
+w1714633181
+8C:/Users/user/side project/RISV-V CPU/rtl/cpu/SignExtend.v
+FC:/Users/user/side project/RISV-V CPU/rtl/cpu/SignExtend.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/side project/RISV-V CPU/rtl/cpu/SignExtend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/rtl/cpu|C:/Users/user/side project/RISV-V CPU/rtl/cpu/SignExtend.v|
+!i113 0
+R6
+R7
+R1
+n@sign@extend
+vtb_UBJ_RISC_V_CPU
+R8
+!i10b 1
+!s100 ;W[H7oKf2cfaYa]F[?=^[0
+I]425YkBRFB@4KWoC5kkz22
+R3
+R0
+w1715523637
+8C:/Users/user/side project/RISV-V CPU/quartus_prj/../sim/tb_UBJ_RISC_V_CPU.v
+FC:/Users/user/side project/RISV-V CPU/quartus_prj/../sim/tb_UBJ_RISC_V_CPU.v
+L0 4
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/side project/RISV-V CPU/quartus_prj/../sim/tb_UBJ_RISC_V_CPU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/side project/RISV-V CPU/quartus_prj/../sim|C:/Users/user/side project/RISV-V CPU/quartus_prj/../sim/tb_UBJ_RISC_V_CPU.v|
+!i113 0
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/user/side project/RISV-V CPU/quartus_prj/../sim} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+ntb_@u@b@j_@r@i@s@c_@v_@c@p@u
